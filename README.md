@@ -1,0 +1,2 @@
+# TheOtherRolesJapanese
+AmongUsの非公式MOD、TheOtherRolesの日本語訳したファイルです。
