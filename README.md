@@ -1,4 +1,5 @@
-！[TOR_logo] （https://user-images.githubusercontent.com/92314038/137069720-b4e548cc-4dcd-4033-81c2-defd70015664.png）
+![TOR_logo](https://user-images.githubusercontent.com/92314038/137070398-81a3bca8-bd3b-42a3-b617-c26900a1d63a.png)
+
 より精度の高い日本語訳を目指すため本家のアップデートの度ファイルを更新します
 本家にも存在しているバグなどは修正しません
 
