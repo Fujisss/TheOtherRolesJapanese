@@ -11,3 +11,15 @@
 
 # ソースコード
 一部の開発者にソースコードは渡されています<br>コードの一部を使用することはできますが全体をコピーすることはできません
+
+# クレジット
+[BEPLNEX](https://github.com/BepInEx)  ゲーム関数のフックに使用<br>
+[DHALUCARD](https://www.twitch.tv/dhalucard)  ジャッカルやサイドキックのアイデア<br>
+[WOODIDEV](https://github.com/Woodi-dev/Among-Us-Love-Couple-Mod)  ラバーのアイデア<br>
+[MARTII](https://github.com/Maartii/Jester)  ジェスターのアイデア<br>
+[NOTHUNTER](https://github.com/NotHunter101/ExtraRolesAmongUs)  エンジニアやメディックのアイデア及びいくつかのコードスニペットの提供<br>
+[WOODIDEV](https://github.com/Woodi-dev/Among-Us-Sheriff-Mod)  シェリフのアイデア<br>
+[HARDELDW](https://github.com/Hardel-DW/TooManyRolesMods)  探偵とタイムマスターのアイデア及びいくつかのコードスニペットの提供<br>
+[TOWNOFUS](https://github.com/slushiegoose/Town-Of-Us)  スワッパーやシフターやアーソニストやメイヤーのアイデア<br>
+[OTTOMATED](https://twitter.com/ottomated_)  モーフィングやスニッチやカモフラージャーのアイデア<br>
+[OTTOMATEDMOD](https://github.com/CrowdedMods/CrowdedMod)  ロビー人数の増加アイデア
